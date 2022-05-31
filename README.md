@@ -21,3 +21,8 @@ Here are some ideas to get you started:
 https://github.com/search?q=involves%3AAsaiToshiya
 
 [![コントリビューション](involves.png)](https://github.com/search?q=involves%3AAsaiToshiya)
+
+
+## 🔥 ストリーク
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AsaiToshiya&locale=ja)](https://git.io/streak-stats)
