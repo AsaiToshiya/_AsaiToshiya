@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 
 ## 👥 コントリビューション
 
-[![コントリビューション](involves.png)](https://github.com/search?q=involves%3AAsaiToshiya)
+<a href="https://github.com/search?q=involves%3AAsaiToshiya">
+  <img src="involves.png" alt="コントリビューション" width="715" />
+</a>
 
 
 ## 🔥 ストリーク
