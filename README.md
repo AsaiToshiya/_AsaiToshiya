@@ -33,14 +33,3 @@ Here are some ideas to get you started:
 ## 📈 プロファイル
 
 https://profile-summary-for-github.com/user/AsaiToshiya
-
-
-## <img src="nostr-icon-purple-on-white.svg" alt="Nostr icon" style="height: 1.5em; vertical-align: text-bottom;" /> Nostr
-
-- [Broogle](https://github.com/AsaiToshiya/broogle) - Not a search engine
-- [brostr-uploader](https://github.com/AsaiToshiya/brostr-uploader)
-- [Brostr](https://github.com/AsaiToshiya/brostr) - A native browser for the content on Nostr
-- [Learn Nostr](https://github.com/AsaiToshiya/learn-nostr) - My personal repo to learn Nostr
-- [NNNs](https://github.com/AsaiToshiya/nnns) - A list of unofficial NIPs that are not NIPs
-- [Nostr Toybox](https://github.com/AsaiToshiya/nostr-toybox) - A collection of micro-apps and POCs for Nostr
-- [sit-up-log](https://github.com/AsaiToshiya/sit-up-log) - My personal sit up log with Nostr
